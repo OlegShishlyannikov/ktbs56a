@@ -1,8 +1,8 @@
 #include "shell.hpp"
 
-int main( int argc, char * argv[] )
-{
+int main(int argc, char *argv[]) {
   shell _shell;
-  while( true );
+  while (true)
+    ;
   return 0;
 }
